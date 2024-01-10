@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "phosphor-react": "^1.4.1",
+    "react-router-dom": "^6.14.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
